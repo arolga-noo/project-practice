@@ -34,7 +34,7 @@ CSV‑файл разметки: meta_data.csv  (содержит имена ф�
 - Визуализация результатов сегментации.
 
 Состав репозитория:
-Ссылки на блокноты в Google Colab: https://colab.research.google.com/drive/1zNXUW9aQ7bmU6GQ7-BMUrCqwhGtPyE4H?usp=sharing
+Ссылка на блокноты в Google Colab: https://colab.research.google.com/drive/1zNXUW9aQ7bmU6GQ7-BMUrCqwhGtPyE4H?usp=sharing
 Модель была взята с сайта: https://www.kaggle.com/code/ilyakapustin/forest-cover-segmentation/notebook
 Папка «images» - фото леса со спутника были взяты из открытых источников.
 Папка «masks» - маски по фото леса со спутников сформированы самостоятельно в векторном редакторе программы Figma.
