@@ -35,6 +35,7 @@ CSV‑файл разметки: meta_data.csv  (содержит имена ф�
 - Визуализация результатов сегментации.
 
 Состав репозитория:
+Файл кода Проектная практика Forest cover segmentation.ipynb
 Ссылка на блокноты в Google Colab: https://colab.research.google.com/drive/1zNXUW9aQ7bmU6GQ7-BMUrCqwhGtPyE4H?usp=sharing
 Модель была взята с сайта: https://www.kaggle.com/code/ilyakapustin/forest-cover-segmentation/notebook
 Папка «images» - фото леса со спутника были взяты из открытых источников.
